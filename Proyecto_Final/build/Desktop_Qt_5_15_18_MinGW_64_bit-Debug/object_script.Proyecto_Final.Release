@@ -1,0 +1,16 @@
+release/arma.o
+release/enemigo.o
+release/main.o
+release/mainwindow.o
+release/mancha.o
+release/personaje.o
+release/potenciador.o
+release/protagonista.o
+release/qrc_rcs.o
+release/moc_arma.o
+release/moc_enemigo.o
+release/moc_mainwindow.o
+release/moc_mancha.o
+release/moc_personaje.o
+release/moc_potenciador.o
+release/moc_protagonista.o

@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/inicio1.jpg</file>
+        <file>Imagenes/sala.jpg</file>
+        <file>Imagenes/1.jpg</file>
+        <file>Imagenes/2.jpg</file>
+        <file>Imagenes/lisa.png</file>
+        <file>Imagenes/marge.png</file>
+        <file>Imagenes/energia.png</file>
+        <file>Imagenes/mancha.png</file>
+        <file>Imagenes/reloj.png</file>
+        <file>fuentes/Simpsonfont.ttf</file>
+        <file>Imagenes/fondo.png</file>
+        <file>Imagenes/homero.png</file>
+        <file>Imagenes/saco.png</file>
+        <file>Imagenes/superficie.png</file>
+        <file>Imagenes/circulo.png</file>
+        <file>Imagenes/2bloq.jpg</file>
+        <file>Imagenes/derrota.png</file>
+        <file>Imagenes/victoria.png</file>
+        <file>Imagenes/score.png</file>
+        <file>Imagenes/encesta.png</file>
+        <file>Imagenes/falla.png</file>
+        <file>Imagenes/normal.png</file>
+        <file>Imagenes/icono.png</file>
+    </qresource>
+</RCC>
